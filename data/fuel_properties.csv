@@ -1,0 +1,37 @@
+Target_ID	Microstructure_Type	Qty_in_Target	Avg_Grain_Size_um	Grain_Size_StdDev_um	Individual_Density_TD_pct	Subcapsule_ID
+RRN01	High-purity large grain (Batch A)	4	22.37	1.39	92.89	6
+RRN01	High-purity large grain (Batch A)	4	22.37	1.39	94.21	5
+RRN01	High-purity large grain (Batch A)	4	22.37	1.39	93.43	4
+RRN01	High-purity large grain (Batch A)	4	22.37	1.39	94.73	3
+RRN01	High-purity large grain (Batch B)	2	24.89	1.52	95.21	2
+RRN01	High-purity large grain (Batch B)	2	24.89	1.52	95.76	1
+RRN02	High-purity large grain (Batch A)	3	22.37	1.39	94.36	5
+RRN02	High-purity large grain (Batch A)	3	22.37	1.39	93.19	4
+RRN02	High-purity large grain (Batch A)	3	22.37	1.39	92	3
+RRN02	High-purity large grain (Batch B)	3	24.89	1.52	94.79	6
+RRN02	High-purity large grain (Batch B)	3	24.89	1.52	95.01	2
+RRN02	High-purity large grain (Batch B)	3	24.89	1.52	95.49	1
+RRN03	Low-density fine grain	3	2.72	0.07	89.09	6
+RRN03	Low-density fine grain	3	2.72	0.07	86.27	5
+RRN03	Low-density fine grain	3	2.72	0.07	89.02	4
+RRN03	Med-carbon large grain	2	17.61	1.31	95.21	3
+RRN03	Med-carbon large grain	2	17.61	1.31	94.5	1
+RRN03	High-carbon large grain	1	21.14	2.05	95.91	2
+RRN04	High-purity large grain (Batch B)	5	24.89	1.52	94.33	6
+RRN04	High-purity large grain (Batch B)	5	24.89	1.52	95.45	5
+RRN04	High-purity large grain (Batch B)	5	24.89	1.52	93.48	4
+RRN04	High-purity large grain (Batch B)	5	24.89	1.52	96.05	2
+RRN04	High-purity large grain (Batch B)	5	24.89	1.52	95.6	1
+RRN04	High-purity large grain (Batch A)	1	22.37	1.39	93.48	3
+RRN05	Low-density fine grain	3	2.72	0.07	87.3	6
+RRN05	Low-density fine grain	3	2.72	0.07	88.57	5
+RRN05	Low-density fine grain	3	2.72	0.07	88.19	4
+RRN05	Med-carbon large grain	2	17.61	1.31	93.27	3
+RRN05	Med-carbon large grain	2	17.61	1.31	94.5	1
+RRN05	High-carbon large grain	1	21.14	2.05	94.07	2
+RRN06	High-purity large grain (Batch A)	3	22.37	1.39	94.1	6
+RRN06	High-purity large grain (Batch A)	3	22.37	1.39	95.14	3
+RRN06	High-purity large grain (Batch A)	3	22.37	1.39	95.01	1
+RRN06	High-purity large grain (Batch B)	3	24.89	1.52	95.43	5
+RRN06	High-purity large grain (Batch B)	3	24.89	1.52	95.63	4
+RRN06	High-purity large grain (Batch B)	3	24.89	1.52	96.14	2
