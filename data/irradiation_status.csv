@@ -1,0 +1,7 @@
+Target_ID	Design_Fuel_Temperature_K	Design_Burnup_FIMA	Sample_Configuration	Planned_HFIR_Cycles	HFIR_Cycle_History	Irradiation_Status	Last_Updated
+RRN01	1173	7.5	High-purity high-density	12	Cycle 511 (completed); Cycle 514 (reinsertion)	Under irradiation	2/7/2025
+RRN02	873, 1173, 1473	7.5	High-purity high-density	11	Cycle 511 (completed); Cycle 514 (reinsertion)	Under irradiation	2/7/2025
+RRN03	1173	3.75	Density and carbon impurity variation	6	Cycle 511 (completed)	Awaiting reinsertion	2/7/2025
+RRN04	873, 1173, 1473	6	High-purity high-density	9	Cycle 511 (completed)	Awaiting reinsertion	2/7/2025
+RRN05	1173	6	Density and carbon impurity variation	9	Cycle 511 (completed)	Awaiting reinsertion	2/7/2025
+RRN06	873, 1173, 1473	3.75	High-purity high-density	6	Cycle 511 (completed)	Awaiting reinsertion	2/7/2025
