@@ -15,7 +15,7 @@ Correlations:
     Rogozkin: FGR = 3.05 × BU^1.92 × exp(−2086 / T_°C)
 
 Input uncertainties:
-    ΔT  = ±30 K    (thermal design margin + SiC thermometry resolution)
+    ΔT  = ±50 K    (thermal design margin + SiC thermometry resolution)
     ΔBU = ±0.5 %FIMA (neutronic calculation uncertainty)
     Δρ  = ±2 %TD   (as-fabricated density variability)
 
