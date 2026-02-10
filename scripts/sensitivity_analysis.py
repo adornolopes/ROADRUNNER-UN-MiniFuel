@@ -89,7 +89,7 @@ def rogozkin_fgr(T_K, BU):
 # ===================================================================
 # Uncertainty Propagation Parameters
 # ===================================================================
-DELTA_T = 30.0    # K
+DELTA_T = 50.0    # K
 DELTA_BU = 0.5    # %FIMA
 DELTA_TD = 2.0    # %TD
 
