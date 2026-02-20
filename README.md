@@ -89,7 +89,7 @@ The table below presents the time- and volume-averaged (TAVA) temperatures and e
 | | | 0.47 | 9.13 | | | 2 | 1,487 | 1,178 | 4.163 | −14 | −0.413 |
 | | | 0.19 | 9.68 | | | 1 | 1,181 | 915 | 3.958 | −8 | −0.208 |
 
-Gap refers to the radial gas gap between the subcapsule outer surface and the target housing inner surface. Variations in subcapsule OD modulate this gap to achieve different fuel temperatures within the same target assembly.
+\Gap refers to the radial gas gap between the subcapsule outer surface and the target housing inner surface. Variations in subcapsule OD modulate this gap to achieve different fuel temperatures within the same target assembly.**
 ---
 
 ## Pre-Irradiation Fuel Properties (Table 3)
