@@ -127,6 +127,7 @@ roadrunner-repo/
 ├── scripts/
 │   ├── figure12_irradiation_conditions.py   # Burnup vs Temperature vs Density scatter
 │   ├── figure14_fgr_comparison.py           # Storms vs Rogozkin FGR comparison
+│   ├── figure15_swelling_ross.py            # Ross Swelling analysis
 │   └── sensitivity_analysis.py              # Uncertainty propagation & variance decomposition
 └── docs/
     └── appendix_a_methodology.md      # Uncertainty propagation methodology
