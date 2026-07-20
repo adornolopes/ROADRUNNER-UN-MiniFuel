@@ -34,7 +34,7 @@ The ROADRUNNER campaign is the **first systematic application of the MiniFuel ir
 | Target ID | Design Fuel Temp (K) | Design Burnup (%FIMA) | Sample Configuration | Planned HFIR Cycles | HFIR Cycle | Irradiation Status |
 |:---------:|:--------------------:|:---------------------:|:--------------------:|:-------------------:|:----------:|:------------------:|
 | **RRN01** | 1,173 | 7.5 | High-purity, high-density | 12 | Cycles 511, 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
-| **RRN02** | 873, 1,173, 1,473 | 7.5 | High-purity, high-density | 11 | Cycles 511, 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
+| **RRN02** | 873, 1,173, 1,473 | 7.5 | High-purity, high-density | 11 | Cycles 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
 | **RRN03** | 1,173 | 3.75 | Density & carbon impurity variation | 6 | Cycles 511, 515, 516 (completed); Cycle 515 (reinsertion) | 🟢 Under irradiation |
 | **RRN04** | 873, 1,173, 1,473 | 6.0 | High-purity, high-density | 9 | Cycles 511 (completed); | 🟡 Awaiting reinsertion|
 | **RRN05** | 1,173 | 6.0 | Density & carbon impurity variation | 9 | Cycles 511, 515, 516,  (completed); Cycle 515 (reinsertion) | 🟢 Under irradiation |
