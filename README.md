@@ -31,14 +31,14 @@ The ROADRUNNER campaign is the **first systematic application of the MiniFuel ir
 >
 > For current HFIR cycle information see: https://neutrons.ornl.gov/hfir/schedule
 
-| Target ID | Design Fuel Temp (K) | Design Burnup (%FIMA) | Sample Configuration | Planned HFIR Cycles | HFIR Cycle | Irradiation Status |
+| Target ID | Design Fuel Temp (K) | Design Burnup (%FIMA) | Sample Configuration | Completed/Planned HFIR Cycles | HFIR Cycle | Irradiation Status |
 |:---------:|:--------------------:|:---------------------:|:--------------------:|:-------------------:|:----------:|:------------------:|
-| **RRN01** | 1,173 | 7.5 | High-purity, high-density | 12 | Cycles 511, 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
-| **RRN02** | 873, 1,173, 1,473 | 7.5 | High-purity, high-density | 11 | Cycles 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
-| **RRN03** | 1,173 | 3.75 | Density & carbon impurity variation | 6 | Cycles 511, 515, 516 (completed); Cycle 515 (reinsertion) | 🟢 Under irradiation |
-| **RRN04** | 873, 1,173, 1,473 | 6.0 | High-purity, high-density | 9 | Cycles 511 (completed); | 🟡 Awaiting reinsertion|
-| **RRN05** | 1,173 | 6.0 | Density & carbon impurity variation | 9 | Cycles 511, 515, 516,  (completed); Cycle 515 (reinsertion) | 🟢 Under irradiation |
-| **RRN06** | 873, 1,173, 1,473 | 3.75 | High-purity, high-density | 6 | Cycles 511, 515, 516  (completed) | 🟢 Under irradiation |
+| **RRN01** | 1,173 | 7.5 | High-purity, high-density | 4/12 | Cycles 511, 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
+| **RRN02** | 873, 1,173, 1,473 | 7.5 | High-purity, high-density | 3/11 | Cycles 514, 515, 516 (completed); Cycle 514 (reinsertion) | 🟢 Under irradiation |
+| **RRN03** | 1,173 | 3.75 | Density & carbon impurity variation | 3/6 | Cycles 511, 515, 516 (completed); Cycle 515 (reinsertion) | 🟢 Under irradiation |
+| **RRN04** | 873, 1,173, 1,473 | 6.0 | High-purity, high-density | 1/9 | Cycles 511 (completed); | 🟡 Awaiting reinsertion|
+| **RRN05** | 1,173 | 6.0 | Density & carbon impurity variation | 3/9 | Cycles 511, 515, 516,  (completed); Cycle 515 (reinsertion) | 🟢 Under irradiation |
+| **RRN06** | 873, 1,173, 1,473 | 3.75 | High-purity, high-density | 3/6 | Cycles 511, 515, 516  (completed) | 🟢 Under irradiation |
 
 **Status legend**: 🟢 Under irradiation · 🟡 Awaiting reinsertion · 🔵 Completed · ⚪ Not yet inserted
 
